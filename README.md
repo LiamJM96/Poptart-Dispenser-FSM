@@ -1,2 +1,2 @@
 # Poptart-Dispenser-FSM
-Poptart Dispenser using Finite State Machine (FSM) developed in C++ 
+Poptart Dispenser using State Pattern developed in C++ 
